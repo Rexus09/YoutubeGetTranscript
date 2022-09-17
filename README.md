@@ -3,11 +3,9 @@ Get the transcript of the video you are watching in case you need to summarize i
 
 The file is very simple and self explainatory, you will need python and 2 packets, you can install them with:
 ```
-# Install
 <details>
   <summary>Click to expand!</summary>
-  
-  ## Heading
+
   pip install google-api-python-client
   pip install youtube_transcript_api
 </details>
